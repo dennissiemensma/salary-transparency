@@ -1,28 +1,36 @@
 # Salary Transparancy
 _Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and following the samples of [jefftk.com](https://www.jefftk.com/money) / [xeiaso.net](https://xeiaso.net/salary-transparency)._ 
 
-_Pay attention to any footnotes for some important details._
+## Salary
 
-| **Year** | **Developer Job**  | **Salary** **⁽¹⁾**  | **Raise**        | **Notes**                                   |
-|----------|--------------------|---------------------|------------------|---------------------------------------------|
-| 2009     | *Graduated*        | -                   | -                | -                                           | 
-| 2009     | PHP Backend        | ``€  2177``         |                  | Starting salary                             | 
-| 2010     | PHP/Python Backend | ``€ ~2242`` **⁽²⁾** | ``~ 3%`` **⁽²⁾** | -                                           | 
-| 2011     | PHP/Python Backend | ``€  2313``         | ``~ 3%`` **⁽²⁾** | Yearly performance review                   | 
-| 2012     | PHP/Python Backend | ``€ ~2428`` **⁽²⁾** | ``~ 5%`` **⁽²⁾** | -                                           | 
-| 2013     | PHP/Python Backend | ``€ ~2540`` **⁽²⁾** | ``~ 5%`` **⁽²⁾** | -                                           | 
-| 2014     | PHP/Python Backend | ``€  2664``         | ``~ 5%`` **⁽²⁾** | Yearly performance review                   | 
-| 2014     | PHP/Python Backend | ``€ ~2800``         | ``+ 5%``         | 5-year anniversary bonus                    | 
-| 2015     | PHP/Python Backend | ``€ ~2996`` **⁽²⁾** | ``~ 7%`` **⁽²⁾** | -                                           | 
-| 2016     | PHP/Python Backend | ``€  3182``         | ``~ 6%`` **⁽²⁾** | Yearly performance review                   | 
-| 2017     | PHP/Python Backend | ``€  3280``         | ``+ 3%``         | Yearly performance review                   | 
-| 2018     | PHP/Python Backend | ``€  3383``         | ``+ 3%``         | Yearly performance review                   | 
-| 2019     | *Job switch*       | -                   | -                | -                                           | 
-| 2019     | PHP Backend        | ``€  3450``         | ``+ 2%``         | Starting salary (May)                       | 
-| 2020     | PHP Backend        | ``€  3675``         | ``+ 6.5%``       | Yearly performance review (July, due Covid) | 
-| 2021     | PHP Backend        | ``€  3900``         | ``+ 6%``         | Yearly performance review (May)             | 
-| 2022     | PHP Backend        | ``€  4050``         | ``+ 4%``         | Yearly performance review (May)             |
-| 2022     | PHP Backend        | ``€  4250``         | ``+ 5%``         | Company wide market bump (December)         | 
+| **Year** | **``€/mon²``**   | **``+ %``**    | **Notes**                    |
+|----------|------------------|----------------|------------------------------|
+| 2009     | ``2177``         |                | Starting salary              |
+| 2010     | ``2242`` **⁽¹⁾** | ``3%`` **⁽¹⁾** | Performance review           |
+| 2011     | ``2313``         | ``3%`` **⁽¹⁾** | Performance review           |
+| 2012     | ``2428`` **⁽¹⁾** | ``5%`` **⁽¹⁾** | Performance review           |
+| 2013     | ``2540`` **⁽¹⁾** | ``5%`` **⁽¹⁾** | Performance review           |
+| 2014     | ``2664``         | ``5%`` **⁽¹⁾** | Performance review           |
+| 2014     | ``2800`` **⁽¹⁾** | ``5%``         | 5-year anniversary bonus     |
+| 2015     | ``2996`` **⁽¹⁾** | ``7%`` **⁽¹⁾** | Performance review           |
+| 2016     | ``3182``         | ``6%`` **⁽¹⁾** | Performance review           |
+| 2017     | ``3280``         | ``3%``         | Performance review           |
+| 2018     | ``3383``         | ``3%``         | Performance review           |
+| 2019     | ``3450``         | ``2%``         | Starting salary (May)        |
+| 2020     | ``3675``         | ``6.5%``       | Performance review (July)    |
+| 2021     | ``3900``         | ``6%``         | Performance review (May)     |
+| 2022     | ``4050``         | ``4%``         | Performance review (May)     |
+| 2022     | ``4250``         | ``5%``         | Inflation/market bump (Dec.) |
 
-- ⁽¹⁾ *Monthly gross income, based on 40 hours a week. Excludes other benefits (e.g. 401K, 8% holiday pay).*
-- ⁽²⁾ *These are all approximate median guesses, as I was unable to find similar reliable records for these years.*
+Notes:
+- ⁽¹⁾ *These are all approximate guesses based on earlier/later years, as I was unable to find similar reliable records for these years.*
+- ⁽²⁾ *Gross income, **without** other benefits (e.g. 401K, 8% holiday pay), based on 40 hours a week.*
+
+
+## Jobs
+
+| **Years**   | **Developer Job**                                                                                                                                                                                   |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2009        | Graduated Windesheim Zwolle.                                                                                                                                                                        | 
+| 2009 - 2018 | **Yourhosting Zwolle**: Mostly PHP/Python (Django) backend work mixed with very simple web UI stuff, automating and fixing a lot of internal stuff, along with scripts related to hosting services. | 
+| 2019 - now  | **Move Agency Zwolle (formerly Move4Mobile)**: PHP backend systems, limited to APIs only, in favor of apps created by us. Working on many projects in mixed teams.                                  | 
