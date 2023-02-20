@@ -3,25 +3,25 @@ _Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and fo
 
 ## Salary
 
-| **Year** | **Salary¹ / % Raise**       | **Reason**               |
-|----------|-----------------------------|--------------------------|
-| 2009     | ``€ 2177``                  | Starting salary          |
-| 2010     | ``€ 2242`` ``3%`` **⁽² ³⁾** | Yearly review            |
-| 2011     | ``€ 2313`` ``3%`` **⁽³⁾**   | Yearly review            |
-| 2012     | ``€ 2428`` ``5%`` **⁽² ³⁾** | Yearly review            |
-| 2013     | ``€ 2540`` ``5%`` **⁽² ³⁾** | Yearly review            |
-| 2014     | ``€ 2664`` ``5%`` **⁽³⁾**   | Yearly review            |
-| 2014     | ``€ 2800`` ``5%`` **⁽² ³⁾** | 5-year bonus             |
-| 2015     | ``€ 2996`` ``7%`` **⁽² ³⁾** | Yearly review            |
-| 2016     | ``€ 3182`` ``6%`` **⁽³⁾**   | Yearly review            |
-| 2017     | ``€ 3280`` ``3%``           | Yearly review            |
-| 2018     | ``€ 3383`` ``3%``           | Yearly review            |
-| 2019     | ``€ 3450`` ``2%``           | Starting salary (May)    |
-| 2020     | ``€ 3675`` ``6%``           | Yearly review (July)     |
-| 2021     | ``€ 3900`` ``6%``           | Yearly review (May)      |
-| 2022     | ``€ 4050`` ``4%``           | Yearly review (May)      |
-| 2022     | ``€ 4250`` ``5%``           | Infl./market bump (Dec.) |
-| 2023     | ``€ 4375`` ``3%``           | Yearly review (Jan.)     |
+| **Year** | **Salary¹ / % Raise**         | **Reason**               |
+|----------|-------------------------------|--------------------------|
+| 2009     | ``€ 2177``                    | Starting salary          |
+| 2010     | ``€ 2242`` ``3%`` **⁽²⁾ ⁽³⁾** | Yearly review            |
+| 2011     | ``€ 2313`` ``3%`` **⁽³⁾**     | Yearly review            |
+| 2012     | ``€ 2428`` ``5%`` **⁽²⁾ ⁽³⁾** | Yearly review            |
+| 2013     | ``€ 2540`` ``5%`` **⁽²⁾ ⁽³⁾** | Yearly review            |
+| 2014     | ``€ 2664`` ``5%`` **⁽³⁾**     | Yearly review            |
+| 2014     | ``€ 2800`` ``5%`` **⁽²⁾ ⁽³⁾** | 5-year bonus             |
+| 2015     | ``€ 2996`` ``7%`` **⁽²⁾ ⁽³⁾** | Yearly review            |
+| 2016     | ``€ 3182`` ``6%`` **⁽³⁾**     | Yearly review            |
+| 2017     | ``€ 3280`` ``3%``             | Yearly review            |
+| 2018     | ``€ 3383`` ``3%``             | Yearly review            |
+| 2019     | ``€ 3450`` ``2%``             | Starting salary (May)    |
+| 2020     | ``€ 3675`` ``6%``             | Yearly review (July)     |
+| 2021     | ``€ 3900`` ``6%``             | Yearly review (May)      |
+| 2022     | ``€ 4050`` ``4%``             | Yearly review (May)      |
+| 2022     | ``€ 4250`` ``5%``             | Infl./market bump (Dec.) |
+| 2023     | ``€ 4375`` ``3%``             | Yearly review (Jan.)     |
 
 Notes:
 - ⁽¹⁾ *Monthly gross income, **without** other benefits (e.g. 401K, 8% holiday pay), based on 40 hours a week.*
