@@ -21,6 +21,7 @@ _Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and fo
 | 2021     | ``€ 3900`` ``6%``           | Yearly review (May)      |
 | 2022     | ``€ 4050`` ``4%``           | Yearly review (May)      |
 | 2022     | ``€ 4250`` ``5%``           | Infl./market bump (Dec.) |
+| 2023     | ``€ 4375`` ``3%``           | Yearly review (Jan.)     |
 
 Notes:
 - ⁽¹⁾ *Monthly gross income, **without** other benefits (e.g. 401K, 8% holiday pay), based on 40 hours a week.*
