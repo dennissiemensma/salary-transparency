@@ -1,30 +1,29 @@
 # Salary Transparancy
-<sub>_Transparancy of my "salary career path", in favor of helping others being paid fairly in IT. Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and following the samples of [jefftk.com](https://www.jefftk.com/money) / [xeiaso.net](https://xeiaso.net/salary-transparency)._</sub> 
+<sub>_Transparancy of my salary history, in favor of helping others being paid fairly in IT. Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and following the samples of [jefftk.com](https://www.jefftk.com/money) / [xeiaso.net](https://xeiaso.net/salary-transparency)._</sub> 
 
-## Career path
-| **Year** | **Salary[^1] ``+%``** | **Event**                    |
-|----------|-----------------------|------------------------------|
-| 2009     | ``€ 2177``            | Starting salary              |
-| 2010     | ``€ 2242`` ``3%``     | Yearly review [^2] [^3]      |
-| 2011     | ``€ 2313`` ``3%``     | Yearly review [^3]           |
-| 2012     | ``€ 2428`` ``5%``     | Yearly review [^2] [^3]      |
-| 2013     | ``€ 2540`` ``5%``     | Yearly review [^2] [^3]      |
-| 2014     | ``€ 2664`` ``5%``     | Yearly review  [^3]          |
-| 2014     | ``€ 2800`` ``5%``     | 5-year bonus  [^2] [^3]      |
-| 2015     | ``€ 2996`` ``7%``     | Yearly review [^2] [^3]      |
-| 2016     | ``€ 3182`` ``6%``     | Yearly review [^3]           |
-| 2017     | ``€ 3280`` ``3%``     | Yearly review                |
-| 2018     | ``€ 3383`` ``3%``     | Yearly review                |
-| 2019     | ``€ 3450`` ``2%``     | Starting salary (May)        |
-| 2020     | ``€ 3675`` ``6%``     | Yearly review (July)         |
-| 2021     | ``€ 3900`` ``6%``     | Yearly review (May)          |
-| 2022     | ``€ 4050`` ``4%``     | Yearly review (May)          |
-| 2022     | ``€ 4250`` ``5%``     | Infl./market bump (December) |
-| 2023     | ``€ 4380`` ``3%``     | Yearly review (January)      |
+## Salary career path
+| **Year** | **Salary[^1]** | ``+%``  | **(Month) Event**          |
+|----------|----------------|---------|----------------------------|
+| 2009     | ``€ 2177``     |         | *(Sept)* Starting salary   |
+| 2010     | [^2]           | [^2]    | *(?)* Yearly review        |
+| 2011     | [^2]           | [^2]    | *(?)* Yearly review        |
+| 2012     | ``€ 2562``     | [^2]    | *(?)* Yearly review        |
+| 2013     | ``€ 2664``     | ``4%``  | *(?)* Yearly review        |
+| 2014     | ``€ 2771``     | ``4%``  | *(Sep)* Yearly review      |
+| 2014     | ``€ 2868``     | ``~4%`` | *(Oct)* 5-year bonus       |
+| 2015     | ``€ 2986``     | ``4%``  | *(Sep)* Yearly review      |
+| 2016     | ``€ 3182``     | ``~7%`` | *(Aug)* Yearly review      |
+| 2017     | ``€ 3280``     | ``3%``  | *(Sept)* Yearly review     |
+| 2018     | ``€ 3383``     | ``3%``  | *(?)* Yearly review        |
+| 2019     | ``€ 3450``     | ``2%``  | *(May)* Starting salary    |
+| 2020     | ``€ 3675``     | ``6%``  | *(Jul)* Yearly review      |
+| 2021     | ``€ 3900``     | ``6%``  | *(May)* Yearly review      |
+| 2022     | ``€ 4050``     | ``4%``  | *(May)* Yearly review      |
+| 2022     | ``€ 4250``     | ``5%``  | *(Dev)* Infl./market bump  |
+| 2023     | ``€ 4380``     | ``3%``  | *(Jan)* Yearly review      |
 
-[^1]: *Monthly gross income, **without** other benefits (e.g. 401K, 8% holiday pay), based on 40 hours a week.*
-[^2]: *These **salaries** are all approximate guesses or medians, based on the year(s) before or after. As I was unable to find reliable historic records for these years.*
-[^3]: *These **raises** are all approximate guesses or medians, based the year(s) before or after. As I was unable to find reliable historic records for these years.*
+[^1]: *Monthly gross income, **without** other benefits (e.g. 401K, 8% holiday pay), based on working 40 hours per week.*
+[^2]: *These **salaries** or **raises** are unknown, as I was unable to find reliable historic records for these years.*
 
 ## Jobs
 | **Year**    | **Employer / Job**                                                                                                                                                                                                                                                                                                                       |
