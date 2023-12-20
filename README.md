@@ -2,28 +2,33 @@
 <sub>_Transparancy of my salary history, in favor of helping others being paid fairly in IT. Inspired by [Hacker News](https://news.ycombinator.com/item?id=33323826) and following the samples of [jefftk.com](https://www.jefftk.com/money) / [xeiaso.net](https://xeiaso.net/salary-transparency)._</sub> 
 
 ## Salary career path
-| **Year** | **Salary**[^1] | ``+%``  | **(Month) Event**         |
-|----------|----------------|---------|---------------------------|
-| '09      | ``2177,-``     |         | *(Sept)* Starting salary  |
-| '10      | [^2]           | [^2]    | *(?)* Yearly review       |
-| '11      | [^2]           | [^2]    | *(?)* Yearly review       |
-| '12      | ``2562,-``     | [^2]    | *(?)* Yearly review       |
-| '13      | ``2664,-``     | ``4%``  | *(?)* Yearly review       |
-| '14      | ``2771,-``     | ``4%``  | *(Sep)* Yearly review     |
-| '14      | ``2868,-``     | ``~4%`` | *(Oct)* 5-year bonus      |
-| '15      | ``2986,-``     | ``4%``  | *(Sep)* Yearly review     |
-| '16      | ``3182,-``     | ``~7%`` | *(Aug)* Yearly review     |
-| '17      | ``3280,-``     | ``3%``  | *(Sept)* Yearly review    |
-| '18      | ``3383,-``     | ``3%``  | *(?)* Yearly review       |
-| '19      | ``3450,-``     | ``2%``  | *(May)* Starting salary   |
-| '20      | ``3675,-``     | ``6%``  | *(Jul)* Yearly review     |
-| '21      | ``3900,-``     | ``6%``  | *(May)* Yearly review     |
-| '22      | ``4050,-``     | ``4%``  | *(May)* Yearly review     |
-| '22      | ``4250,-``     | ``5%``  | *(Dec)* Infl./market bump |
-| '23      | ``4380,-``     | ``3%``  | *(Jan)* Yearly review     |
+| **Wage**[^1] | **Raise**[^1] | **+**   | **When**    | **Why** |
+|--------------|---------------|---------|-------------|---------|
+| ``2177``     | [^2]          | [^2]    | `` 9/2009`` | [^3]    |
+| [^2]         | [^2]          | [^2]    | `` ?/2010`` | [^4]    |
+| [^2]         | [^2]          | [^2]    | `` ?/2011`` | [^4]    |
+| ``2562``     | [^2]          | [^2]    | `` ?/2012`` | [^4]    |
+| ``2664``     | ``102``       | `` 4%`` | `` ?/2013`` | [^4]    |
+| ``2771``     | ``107``       | `` 4%`` | `` 9/2014`` | [^4]    |
+| ``2868``     | `` 97``       | ``~4%`` | ``10/2014`` | [^5]    |
+| ``2986``     | ``118``       | `` 4%`` | `` 9/2015`` | [^4]    |
+| ``3182``     | ``196``       | ``~7%`` | `` 8/2016`` | [^4]    |
+| ``3280``     | `` 98``       | `` 3%`` | `` 9/2017`` | [^4]    |
+| ``3383``     | ``103``       | `` 3%`` | `` ?/2018`` | [^4]    |
+| ``3450``     | `` 67``       | `` 2%`` | `` 5/2019`` | [^3]    |
+| ``3675``     | ``225``       | `` 6%`` | `` 7/2020`` | [^4]    |
+| ``3900``     | ``225``       | `` 6%`` | `` 5/2021`` | [^4]    |
+| ``4050``     | ``150``       | `` 4%`` | `` 5/2022`` | [^4]    |
+| ``4250``     | ``200``       | `` 5%`` | ``12/2022`` | [^6]    |
+| ``4380``     | ``130``       | `` 3%`` | `` 1/2023`` | [^4]    |
+|              |               |         | ``   2024`` |         |
 
 [^1]: *Monthly gross salary in Euro (€), **without** other benefits (e.g. 401K, 8% holiday pay), based on working 40 hours per week.*
 [^2]: *These **salaries** or **raises** are unknown, as I was unable to find reliable historic records for these years.*
+[^3]: *Reason: Starting salary*
+[^4]: *Reason: Yearly performance review*
+[^5]: *Reason: 5-year anniversary bonus*
+[^6]: *Reason: Inflation/market bump*
 
 ## Jobs
 | **Year**    | **Employer / Job**                                                                                                                                                                                                                                                                                                                       |
