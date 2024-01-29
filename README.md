@@ -21,7 +21,7 @@
 | ``4050``     | ``150``       | `` 4%`` | `` 5/2022`` | [^4]    |
 | ``4250``     | ``200``       | `` 5%`` | ``12/2022`` | [^6]    |
 | ``4380``     | ``130``       | `` 3%`` | `` 1/2023`` | [^4]    |
-|              |               |         | ``   2024`` |         |
+| ``4686``     | ``306``       | `` 7%`` | `` 1/2024`` | [^4]    |
 
 [^1]: *Monthly gross salary in Euro (€), **without** other benefits (e.g. 401K, 8% holiday pay), based on working 40 hours per week.*
 [^2]: *These **salaries** or **raises** are unknown, as I was unable to find reliable historic records for these years.*
